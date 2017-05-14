@@ -1,2 +1,2 @@
 # search_with_ext
-Search for specific file extension in the disk recursively
+Search for file with specific extension in the disk recursively with c++ targetting Windows operating system.
